@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/eBook/static/css/main.729a8e68.css",
+    "main.js": "/eBook/static/js/main.aa9bd463.js",
+    "static/media/downloadebook.png": "/eBook/static/media/downloadebook.01e92b8327dffbca5e81.png",
+    "static/media/logo.png": "/eBook/static/media/logo.1ed9d1703c4986792725.png",
+    "static/media/ebook.png": "/eBook/static/media/ebook.7139d5ba21667270561c.png",
+    "index.html": "/eBook/index.html",
+    "main.729a8e68.css.map": "/eBook/static/css/main.729a8e68.css.map",
+    "main.aa9bd463.js.map": "/eBook/static/js/main.aa9bd463.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.729a8e68.css",
+    "static/js/main.aa9bd463.js"
+  ]
+}
