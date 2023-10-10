@@ -68,7 +68,7 @@ function Main() {
                     type="text"
                     name="name"
                     pattern="^\D{2,}\s[\D\s]{2,}$"
-                    placeholder="Please enter your name*"
+                    placeholder="Your name please*"
                     value={name}
                     onChange={e => setName(e.currentTarget.value)}
                     required
@@ -78,7 +78,7 @@ function Main() {
                     className="input mob"
                     type="email"
                     name="email"
-                    placeholder="Please enter your email*"
+                    placeholder="Your email please*"
                     value={email}
                     onChange={e => setEmail(e.currentTarget.value)}
                     required
